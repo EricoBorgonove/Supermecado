@@ -36,7 +36,7 @@ Nosso próximo passo inclui:
 Professor Orientador
 - Erico Borgonove Cruz
 
-Aqui estão os devs que estão continuindo para este projeto em 2023
+Aqui estão os devs que estão contribuindo para este projeto em 2023
 
 - Francisvan Oliveira
 - Luiz Felipe

@@ -2,6 +2,10 @@
 <img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-green"/>
 </p>
 
+<div aling="center">
+    <img src="https://user-images.githubusercontent.com/67968651/263160050-135f203f-3779-4067-ae02-a2c89edc4edd.jpg" width="500px">
+</div>
+
 ## 🚀 Apresentação do Projeto
 Nosso projeto é o resultado da aplicação prática de tudo o que aprendemos até agora. Combinando criatividade, habilidades técnicas e uma paixão pela tecnologia.
 
@@ -36,7 +40,7 @@ Nosso próximo passo inclui:
 Professor Orientador
 - Erico Borgonove Cruz
 
-Aqui estão os devs que estão contribuindo para este projeto em 2023
+Aqui estão os devs que estão contribuindo para este projeto em 2023/2
 
 - Francisvan Oliveira
 - Luiz Felipe
@@ -44,7 +48,7 @@ Aqui estão os devs que estão contribuindo para este projeto em 2023
 - Emerson Bonfim
 - Rodrigo Lucena
 
-Os devs que comtribuiram em 2022
+Os devs que contribuiram em 2023/1
 - Wellington Pinheiro
 - Victor Lyra
 - Carlos Emanuel
